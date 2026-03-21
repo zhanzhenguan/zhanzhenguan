@@ -60,11 +60,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Blockchain-Smart%20Contracts-orange?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain" />
 </p>
 
-### 🚀 Currently Exploring
-- Rust + Anchor for Solana programs & high-performance backends
-- Python for data/scripts & tooling
-- Golang for concurrent systems & microservices
-- Transitioning enterprise skills to Web3 & open-source
+### 🚀 Currently Exploring & Mastering
+- Java (Spring Cloud, Microservices) – Core stack for scalable enterprise backends
+- Rust + Anchor for Solana smart programs & high-performance chains
+- Python for automation, data/scripts & ML tooling
+- Golang for concurrent, lightweight services
+- Bridging enterprise expertise to Web3 & open-source contributions
 
 ### 🌟 Let's Connect & Collab
 <p align="center">
