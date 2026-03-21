@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Solana-Web3-purple?style=for-the-badge&logo=solana&logoColor=white" />
 </p>
 
-<image-card alt="Zane's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zzg0412&show_icons=true&theme=radical" ></image-card>
-<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzg0412&layout=compact&theme=radical" ></image-card>
+<image-card alt="Zane's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zhanzhenguan&show_icons=true&theme=radical" ></image-card>
+<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanzhenguan&layout=compact&theme=radical" ></image-card>
 
-<image-card alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=zzg0412&theme=radical" ></image-card>
+<image-card alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=zhanzhenguan&theme=radical" ></image-card>
 
-<image-card alt="trophy" src="https://github-profile-trophy.vercel.app/?username=zzg0412&theme=radical&no-frame=true&margin-w=15" ></image-card>
+<image-card alt="trophy" src="https://github-profile-trophy.vercel.app/?username=zhanzhenguan&theme=radical&no-frame=true&margin-w=15" ></image-card>
