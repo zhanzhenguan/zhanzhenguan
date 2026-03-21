@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhanzhenguan&theme=dracula&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
-</div>
+  <img src="https://github-trophies.vercel.app/?username=zhanzhenguan&theme=dracula&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
+</div> 
 
 <div align="center">
 
 <!-- Visitor count -->
-<img src="https://profile-counter.glitch.me/zhanzhenguan/count.svg" alt="Profile views" />
+ <img src="https://komarev.com/ghpvc/?username=zhanzhenguan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 <!-- Stats cards -->
 <p>
@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="mailto:zane0312@foxmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/zzg0412"><img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://t.me/yourtelegramusername"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/zhanzhenguan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/hannibal07"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/zanebrooks"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
