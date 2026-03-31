@@ -33,14 +33,14 @@ Here are some ideas to get you started:
  <img src="https://komarev.com/ghpvc/?username=zhanzhenguan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 <!-- Stats cards -->
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=zhanzhenguan&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Zane's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhanzhenguan&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="48%" />
 </p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanzhenguan&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" width="60%" />
-</p>
+</p> -->
 
 </div>
 
